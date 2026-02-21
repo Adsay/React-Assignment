@@ -1,0 +1,19 @@
+:root {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  background: #f0f2f5;
+  color: #1f2b3d;
+}
+
+#root {
+  width: 100%;
+}
+
+.app-container {
+  width: 100%;
+  padding: 0;
+}
