@@ -1,4 +1,4 @@
-# Artworks Data Table (React Internship Assignment)
+# Artworks Data Table
 
 This project is built using React + TypeScript with Vite and PrimeReact DataTable.
 
